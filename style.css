@@ -61,7 +61,7 @@ nav a:hover{
     display: None;
 }
 
-@media all and (max-width: 550px){
+@media all and (max-width: 575px){
     nav{
         display: block;
         position: relative;
