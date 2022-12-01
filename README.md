@@ -1,6 +1,4 @@
-# Unofficial Krusty Krab Website
-
-This project is named unofficial because all rights belong to Nickelodean
+# Krusty Krab Website
 
 <!-- One or two paragraphs providing an overview of your project. Tell us about your project.
 
