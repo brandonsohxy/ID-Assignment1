@@ -10,6 +10,20 @@ Essentially, this part is your sales pitch. -->
 
 ## Design Process
 
+I got this idea from ordering food and watching a clip on Spongebob. After doing so I thought why not make a website for the well-known Krusty Krab of Bikini Bottom?
+
+I started with the navigation bar where I wanted it to look as simple and efficient as possible so users wouldn't get lost when browsing on the website.
+
+After that I moved on to the homepage where it instantly tells the user what page they are on by introducing the title of the place through the header, and the location through the background.
+
+About introduces the workers in Krusty Krabs where users can learn more about their potential future co-workers\* (coming up soon in later explanations). Buttons were placed for users to learn more.
+
+Menu shows users what can be ordered at Krusty Krabs
+
+Contact allows the users to apply to work at Krusty Krabs
+
+TLDR: Straight-forward design so user wouldn't get confused while exploring.
+
 <!-- Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:

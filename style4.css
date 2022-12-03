@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+section{
+    max-width: 700px;
+    margin: auto;
+    height: 50vh;
+    top: 75px;
+
+    text-align: center;
+    justify-content: center;
+
+    position: relative;
+    
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 7px rgb(255, 255, 255);
+}
+
+.background-image{
+    background-image: url(images/spongebob-background.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+
+    height: 100vh;
+}
+
+section{
+    background-color: white;
+    width: 100%;
+    min-width: 420px;
+    padding: 35px 50px;
+    position: relative;
+
+    border-radius: 10px;
+    box-shadow: 20px 30px 25px black;
+    transform: translate(-50% -50%);
+    height: auto;
+    justify-content: center;
+
+}
+
+section h2{
+    font-size: 20px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+form{
+    width: 100%;
+    position: relative;
+    margin: 30px auto 0 auto;
+}
+
+.row{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(300px,1fr));
+    grid-gap: 20px 30px;
+    margin-bottom: 20px;
+}
+
+label{
+    font-size: 14px;
+}
+
+input{
+    width: 100%;
+    font-weight: 400;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1.2px solid whitesmoke;
+    margin-top: 5px;
+}
+
+button{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
