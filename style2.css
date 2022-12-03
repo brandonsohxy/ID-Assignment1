@@ -13,10 +13,6 @@
     /* height: 100vh; */
 }
 
-body {
-    background: grey;
-}
-
 .about{
     display: flex;
     justify-content: center;
@@ -59,8 +55,8 @@ body {
     padding: 10px;
 }
 
-.card p{
-    padding: 10px;
+.card ul{
+    padding: 20px;
 }
 
 .card a{

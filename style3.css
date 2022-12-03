@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.background-image{
+    background-image: url(images/burger.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.burger{
+    background-color: rgba(128, 128, 128, 0.544);
+    color: white;
+    text-shadow: 0 0 7px black;
+
+    max-width: 700px;
+    margin: auto;
+    top: 85px;
+
+    justify-content: center;
+    text-align: center;
+
+    position: relative;
+
+    width: 350px;
+    height: auto;
+
+    border-radius: 15px;
+}
+
+.burger h2{
+    padding: 10px;
+}
+
+.burger p{
+    font-size: 15px;
+    padding: 10px;
+}
