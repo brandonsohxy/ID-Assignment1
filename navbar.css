@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Montserrat:wght@500&family=Open+Sans&display=swap');
 
-
-
-
 *{
     margin: 0px;
     padding: 0px;
@@ -55,6 +52,14 @@ nav a:hover{
     width: 150px; 
     margin-right: 30px;
 }   
+
+.logo a{
+
+    display: block;
+    width: 150px;
+    margin-right: 30px;
+
+}
 
 .toggle{
     font-size: 30px;

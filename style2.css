@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.background-image{
+    background-image: url(images/spongebob-background.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    
+    /* height: 100vh; */
+}
+
+body {
+    background: grey;
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    background: white;
+    width: 370px;
+    height: 555px;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+.card-img{
+    background-color: aqua;
+    height: 270px;
+    margin-bottom: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px 15px 0 0;
+}
+
+.mr-krabs{
+    background-image: url(images/mr-krabs.jpg);
+
+}
+
+.squidward{
+    background-image: url(images/handsome_squidward.jpg);
+
+}
+
+.spongbob{
+    background-image: url(images/spongebob-derp.jpg);
+}
+
+.card h2{
+    padding: 10px;
+}
+
+.card p{
+    padding: 10px;
+}
+
+.card a{
+    background-color: rgb(16, 54, 90);
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 60px;
+    border-radius: 15px;
+}
+
+.card:hover{
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
