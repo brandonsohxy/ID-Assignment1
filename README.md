@@ -1,5 +1,9 @@
 # Krusty Krab Website
 
+Welcome to the Krusty Krab website where I introduce you to the characters working in the restuarant, the food and lastly providing you the opportunity to work with us!
+
+p.s If you look carefully you might find the button the the secret recipe ;-)
+
 <!-- One or two paragraphs providing an overview of your project. Tell us about your project.
 
 Essentially, this part is your sales pitch. -->
@@ -58,6 +62,8 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Content
 
 The content was taken from https://en.wikipedia.org/wiki/SpongeBob_SquarePants
+
+Pictures of characters were taken from https://costumewall.com/
 
 <!-- - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z) -->
 
