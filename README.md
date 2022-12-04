@@ -35,27 +35,15 @@ Include the Adobe XD wireframe as a folder. You can include the XD share url.  -
 
 ## Features
 
-Navigation Bar - By clicking on the logo of Spongebob it brings user back to homepage. If the website width size is less than 575px it becomes adds dropdown feature.
-
-Homepage - Introduces the main content to user.
-
-About - Shows the workers and characters to user where they can hover over their card and it lights up. Read More button leads to their wiki page where in-depth history and description of the characters are explained.
-
-Menu - Shows users the MANY food items in this content
-
-Contact - Allows the user to contact Krusty Krab and apply for a job there by filling in the form.
-
 <!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. -->
 
 ### Existing Features
 
-\*Home - Plan on adding an invisible button on the background image door where it lights up upon hover, where users could navigate to the about section through this extra feature.
+Navigation Bar - By clicking on the logo of Spongebob it brings user back to homepage. If the website width size is less than 575px it becomes adds dropdown feature.
 
-About - You are able to click on the cards to learn more about the characters passed what is shown.
+About - Shows the workers and characters to user where they can hover over their card and it lights up. Read More button leads to their wiki page where in-depth history and description of the characters are explained.
 
-\*Menu - Plan on adding a button at the bottom of the page where it says "Secret Recipe". Upon clicking it would lead to another page where it will mock Plankton and RickRoll the user.
-
-Contact - Can fill up form to apply job at Krusty Krab.
+Contact - Allows the user to contact Krusty Krab and apply for a job there by filling in the form.
 
 <!-- - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
@@ -64,7 +52,9 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-*Home and *Menu additional features explained in previous catalog.
+\*Home - Plan on adding an invisible button on the background image door where it lights up upon hover, where users could navigate to the about section through this extra feature.
+
+\*Menu - Plan on adding a button at the bottom of the page where it says "Secret Recipe". Upon clicking it would lead to another page where it will mock Plankton and RickRoll the user.
 
 <!-- - Another feature idea -->
 
