@@ -6,25 +6,25 @@ toggleButton.addEventListener('click', () =>{
 
 })
 
-import Character from ".Character";
+// import Character from ".Character";
 
-const mrkrabs = new Character(
-  "Mr Krabs",
-  "Crab",
-  "Male",
-  "Owner & Manager",
-);
+// const mrkrabs = new Character(
+//   "Mr Krabs",
+//   "Crab",
+//   "Male",
+//   "Owner & Manager",
+// );
 
-const squidward = new Character(
-  "Squidward",
-  "Giant Pacific Octopus",
-  "Male",
-  "Cashier"
-);
+// const squidward = new Character(
+//   "Squidward",
+//   "Giant Pacific Octopus",
+//   "Male",
+//   "Cashier"
+// );
 
-const spongebob = new Character(
-  "Spongebob",
-  "Sea Sponge",
-  "Male",
-  "Fry cook"
-)
+// const spongebob = new Character(
+//   "Spongebob",
+//   "Sea Sponge",
+//   "Male",
+//   "Fry cook"
+// )

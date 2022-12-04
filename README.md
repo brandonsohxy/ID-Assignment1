@@ -58,6 +58,8 @@ In addition, you may also use this section to discuss plans for additional featu
 
 \*Menu - Plan on adding a button at the bottom of the page where it says "Secret Recipe". Upon clicking it would lead to another page where it will mock Plankton and RickRoll the user.
 
+\*About - Plan on adding and action page after user clicks submit.
+
 <!-- - Another feature idea -->
 
 ## Technologies Used
@@ -71,6 +73,18 @@ https://ionic.io/ionicons/v4
     - The project uses **JQuery** to simplify DOM manipulation. -->
 
 ## Testing
+
+1. Navigation Bar:
+
+   1. Go to any page
+   2. Decrease the screen size below width of 575px and verify that an dropdown icon shows up
+   3. Try to click on dropdown icon and verify that the different navigators works upon interaction by bringing user to respective pages.
+
+2. About:
+   1. Go to "About" page
+   2. Try to hover over each character and verify that they respond by enlarging and changes colors of text and background.
+   3. Try to click on "READ MORE" and verify that it opens a new tab to their respective wikipedia page
+   4. Try to make the screen smaller and verify that the character cards moves below on its own.
 
 <!-- For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
