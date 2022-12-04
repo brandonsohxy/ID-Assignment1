@@ -24,6 +24,8 @@ Contact allows the users to apply to work at Krusty Krabs
 
 TLDR: Straight-forward design so user wouldn't get confused while exploring.
 
+Adobe XD Wireframe - https://xd.adobe.com/view/3e64fc34-d278-4d8b-92f4-6b34d403ddee-6b37/
+
 <!-- Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
