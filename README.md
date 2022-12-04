@@ -16,7 +16,7 @@ I started with the navigation bar where I wanted it to look as simple and effici
 
 After that I moved on to the homepage where it instantly tells the user what page they are on by introducing the title of the place through the header, and the location through the background.
 
-About introduces the workers in Krusty Krabs where users can learn more about their potential future co-workers\* (coming up soon in later explanations). Buttons were placed for users to learn more.
+About introduces the workers in Krusty Krabs where users can learn more about their potential future co-workers\* (coming up soon in later explanations). I also plan to add buttons so users could click on it to learn more about the characters beyond what is shown.
 
 Menu shows users what can be ordered at Krusty Krabs
 
@@ -35,9 +35,27 @@ Include the Adobe XD wireframe as a folder. You can include the XD share url.  -
 
 ## Features
 
+Navigation Bar - By clicking on the logo of Spongebob it brings user back to homepage. If the website width size is less than 575px it becomes adds dropdown feature.
+
+Homepage - Introduces the main content to user.
+
+About - Shows the workers and characters to user where they can hover over their card and it lights up. Read More button leads to their wiki page where in-depth history and description of the characters are explained.
+
+Menu - Shows users the MANY food items in this content
+
+Contact - Allows the user to contact Krusty Krab and apply for a job there by filling in the form.
+
 <!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. -->
 
 ### Existing Features
+
+\*Home - Plan on adding an invisible button on the background image door where it lights up upon hover, where users could navigate to the about section through this extra feature.
+
+About - You are able to click on the cards to learn more about the characters passed what is shown.
+
+\*Menu - Plan on adding a button at the bottom of the page where it says "Secret Recipe". Upon clicking it would lead to another page where it will mock Plankton and RickRoll the user.
+
+Contact - Can fill up form to apply job at Krusty Krab.
 
 <!-- - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
@@ -46,9 +64,14 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
+*Home and *Menu additional features explained in previous catalog.
+
 <!-- - Another feature idea -->
 
 ## Technologies Used
+
+I used IonIcons for my dropdown icon
+https://ionic.io/ionicons/v4
 
 <!-- In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
